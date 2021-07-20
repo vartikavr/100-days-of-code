@@ -1,4 +1,4 @@
-//O(logn)
+//O(logn) -> binary search algo
 
 class Solution {
 public:
