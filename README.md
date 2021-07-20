@@ -1,3 +1,18 @@
 # 100-days-of-code
 
 Trying to achieve consistency. Started from 13th July, 2021.
+
+Programming Language - C++
+
+[Link to my Leetcode Profile](https://leetcode.com/vartika_vr/)
+
+| Date | Problem                                                                                                                                            |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 13   | [Find Peak Element](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3812/)                |
+| 14   | [Custom Sort String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3813/)               |
+| 15   | [Valid Triangle Number](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3815/)           |
+| 16   | [4Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3816/)                            |
+| 17   | [Three Equal Parts](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3817/)               |
+| 18   | [Reverse Nodes in k-Group](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3818/)        |
+| 19   | [Lowest Common Ancestor of a BST](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3819/) |
+| 20   | [Shuffle an Array](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3820/)                |
