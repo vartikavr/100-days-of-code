@@ -17,3 +17,4 @@ Programming Language - C++
 | 19   | [Lowest Common Ancestor of a BST](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3819/) |
 | 20   | [Shuffle an Array](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3820/)                |
 | 21   | [Push Dominoes](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3821/)                   |
+| 22   | [Partition Disjoint](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3823/)              |
