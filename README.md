@@ -8,8 +8,8 @@ Programming Language - C++
 
 ## July Leetcode Challenge
 
-| Date | Problem Link                                                                                                                                                      |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Date | Problem Link                                                                                                                                                      | My Solution                                                                                                           |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | 13   | [Find Peak Element](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3812/)                               |
 | 14   | [Custom Sort String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3813/)                              |
 | 15   | [Valid Triangle Number](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3815/)                          |
@@ -26,7 +26,7 @@ Programming Language - C++
 | 26   | [Convert Sorted Array to BST](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3827/)                    |
 | 27   | [Three Sum Closest](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3828/)                              |
 | 28   | [Beautiful Array](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3829/)                                |
-| 29   | [01 Matrix](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3831/)                                      |
+| 29   | [01 Matrix](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3831/)                                      | [01Matrix.cpp](https://github.com/vartikavr/100-days-of-code/blob/master/Leetcode_July_30Days_Challenge/01Matrix.cpp) |
 | 30   | [Map Sum Pairs](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3832/)                                  |
 | 31   | [Trapping Rain Water](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3833/)                            |
 
