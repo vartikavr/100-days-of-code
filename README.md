@@ -6,6 +6,8 @@ Programming Language - C++
 
 [Link to my Leetcode Profile](https://leetcode.com/vartika_vr/)
 
+## July Leetcode Challenge
+
 | Date | Problem Link                                                                                                                                                      |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 13   | [Find Peak Element](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3812/)                               |
@@ -27,3 +29,5 @@ Programming Language - C++
 | 29   | [01 Matrix](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3831/)                                      |
 | 30   | [Map Sum Pairs](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3832/)                                  |
 | 31   | [Trapping Rain Water](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3833/)                            |
+
+## August Leetcode Challenge
