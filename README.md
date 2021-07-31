@@ -26,3 +26,4 @@ Programming Language - C++
 | 28   | [Beautiful Array](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/611/week-4-july-22nd-july-28th/3829/)                                |
 | 29   | [01 Matrix](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3831/)                                      |
 | 30   | [Map Sum Pairs](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3832/)                                  |
+| 31   | [Trapping Rain Water](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3833/)                            |
