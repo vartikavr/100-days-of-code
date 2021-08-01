@@ -31,3 +31,7 @@ Programming Language - C++
 | 31   | [Trapping Rain Water](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/612/week-5-july-29th-july-31st/3833/)                            | [trapRain.cpp](https://github.com/vartikavr/100-days-of-code/blob/master/Leetcode_July_30Days_Challenge/trapRain.cpp)                         |
 
 ## August Leetcode Challenge
+
+| Date | Problem Link                                                                                                                                | My Solution                                                                                                                       |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [Making A Large Island](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/613/week-1-august-1st-august-7th/3835/) | [largestIsland.cpp](https://github.com/vartikavr/100-days-of-code/blob/master/Leetcode_August_30Days_Challenge/largestIsland.cpp) |
