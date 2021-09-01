@@ -65,3 +65,9 @@ Programming Language - C++
 | 29   | [Patching Array](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/617/week-5-august-29th-august-31st/3956/)                                 | [minPatches.cpp](https://github.com/vartikavr/100-days-of-code/blob/master/Leetcode_August_30Days_Challenge/minPatches.cpp)                       |
 | 30   | [Range Addition ii](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/617/week-5-august-29th-august-31st/3957/)                              | [maxCount.cpp](https://github.com/vartikavr/100-days-of-code/blob/master/Leetcode_August_30Days_Challenge/maxCount.cpp)                           |
 | 31   | [Find Minimum in Rotated Sorted Array](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/617/week-5-august-29th-august-31st/3958/)           | [findMin.cpp](https://github.com/vartikavr/100-days-of-code/blob/master/Leetcode_August_30Days_Challenge/findMin.cpp)                             |
+
+## September Leetcode Challenge
+
+| Date | Problem Link                                                                                                                                 | My Solution                                                                                                                        |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [Array Nesting](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/636/week-1-september-1st-september-7th/3960/) | [arrayNesting.cpp](https://github.com/vartikavr/100-days-of-code/blob/master/Leetcode_September_30Days_Challenge/arrayNesting.cpp) |
