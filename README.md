@@ -68,6 +68,7 @@ Programming Language - C++
 
 ## September Leetcode Challenge
 
-| Date | Problem Link                                                                                                                                 | My Solution                                                                                                                        |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | [Array Nesting](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/636/week-1-september-1st-september-7th/3960/) | [arrayNesting.cpp](https://github.com/vartikavr/100-days-of-code/blob/master/Leetcode_September_30Days_Challenge/arrayNesting.cpp) |
+| Date | Problem Link                                                                                                                                                  | My Solution                                                                                                                          |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | [Array Nesting](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/636/week-1-september-1st-september-7th/3960/)                  | [arrayNesting.cpp](https://github.com/vartikavr/100-days-of-code/blob/master/Leetcode_September_30Days_Challenge/arrayNesting.cpp)   |
+| 2    | [Unique Binary Search Trees II](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/636/week-1-september-1st-september-7th/3961/) | [generateTrees.cpp](https://github.com/vartikavr/100-days-of-code/blob/master/Leetcode_September_30Days_Challenge/generateTrees.cpp) |
